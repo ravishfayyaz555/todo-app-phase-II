@@ -4,4 +4,6 @@ This project uses a Next.js frontend and a Python backend.
 
 ## Deployment
 
-Deploy the `frontend` directory to Vercel.
+**Live Link:** [https://todo-app-phase-ii-sage.vercel.app](https://todo-app-phase-ii-sage.vercel.app)
+
+The frontend is deployed to Vercel and automatically updates on every push to the `master` branch.
